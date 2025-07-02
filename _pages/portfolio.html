@@ -5,10 +5,23 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
-
-
+<h2>Programming Projects</h2>
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  {% if post.category == "programming" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
+<h2>Computational Neuroscience</h2>
+{% for post in site.portfolio %}
+  {% if post.category == "computational-neuroscience" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Bioinformatics</h2>
+{% for post in site.portfolio %}
+  {% if post.category == "bioinformatics" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
