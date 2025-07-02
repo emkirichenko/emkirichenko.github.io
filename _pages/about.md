@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Welcome"
+title: ""
 author_profile: true
 ---
 
-# Emily Kirichenko
+# 
 
-Welcome! I'm a third-year **Biology & Psychology, Neuroscience & Behaviour** student at McMaster University passionate about neuroscience and immunology research.
+Welcome to my personal & academic website! I'm a third-year **Biology & Psychology, Neuroscience & Behaviour** student at McMaster University passionate about neuroscience and immunology research.
 
 ## Current Focus
 
-- **Academic:** Combined Honours degree (GPA: 10.0/12.0) + Certificate in Languages of Medicine and Health
+- **Academic:** Combined Honours degree (BSc.); Concurrent Certificate in the Languages of Medicine and Health
 - **Research Interests:** Computational neuroscience, neurodegeneration, biomarker discovery, scientific etymology  
 - **Technical Skills:** Python, R, MATLAB development for biological data analysis
 - **Goal:** Independent research course (BIOLOGY 3IR3) and undergraduate thesis (BIOLOGY 4C12) leading to graduate studies in neuroscience
