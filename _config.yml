@@ -23,8 +23,8 @@ talkmap_link             : false
 
 # Site Author
 author:
-  name             : "Emily Kirichenko"
-  avatar           : "/images/profile.png"
+  name             : ""
+  # avatar           : "/images/profile.png"
   bio              : "Third-year Biology & Psychology, Neuroscience & Behaviour student at McMaster University. Interested in neuroscience, neuroimmunology, neurodegeneration, and scientific etymology."
   location         : "Hamilton, Ontario, Canada"
   employer         : "McMaster University"
