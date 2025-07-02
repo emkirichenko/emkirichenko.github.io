@@ -1,6 +1,6 @@
 ---
 title: "Smart Banking Assistant"
-excerpt: "Command-line banking system with PIN authentication and transaction management built in Python<br/><img src='/images/banking-project.png'>"
+excerpt: "Command-line banking system with PIN authentication and transaction management built in Python"
 collection: portfolio
 permalink: /portfolio/smart-banking-assistant/
 ---
