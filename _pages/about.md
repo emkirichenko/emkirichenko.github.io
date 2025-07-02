@@ -4,8 +4,6 @@ title: ""
 author_profile: true
 ---
 
-# 
-
 Welcome to my personal & academic website! I'm a third-year **Biology & Psychology, Neuroscience & Behaviour** student at McMaster University passionate about neuroscience and immunology research.
 
 ## Current Focus
