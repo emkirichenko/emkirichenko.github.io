@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome
 
 I'm Emily Kirichenko, a third-year student in the Combined Honours Biology & PNB (Psychology, Neuroscience & Behaviour) program at McMaster University with a strong interest in neuroscience and immunology research.
 
