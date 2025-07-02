@@ -1,6 +1,6 @@
 ---
 title: "Smarter Banking Assistant"
-excerpt: "Advanced multi-user banking system with file I/O, data persistence, and credit card security<br/><img src='/images/advanced-banking-project.png'>"
+excerpt: "Advanced multi-user banking system with file I/O, data persistence, and credit card security built in Python"
 collection: portfolio
 permalink: /portfolio/smarter-banking-assistant/
 ---
