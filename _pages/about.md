@@ -13,7 +13,7 @@ Welcome! I'm a third-year **Biology & Psychology, Neuroscience & Behaviour** stu
 - **Academic:** Combined Honours degree (GPA: 10.0/12.0) + Certificate in Languages of Medicine and Health
 - **Research Interests:** Computational neuroscience, neurodegeneration, biomarker discovery, scientific etymology  
 - **Technical Skills:** Python, R, MATLAB development for biological data analysis
-- **Goal:** Independent research (BIO 3IR3) leading to graduate studies in neuroscience
+- **Goal:** Independent research course (BIOLOGY 3IR3) and undergraduate thesis (BIOLOGY 4C12) leading to graduate studies in neuroscience
 
 ## Quick Links
 
