@@ -34,5 +34,18 @@ An advanced multi-user banking system extending the original project with persis
 - **Software Engineering:** Modular design following single responsibility principle
 - **Data Management:** Complex nested dictionaries and transaction analytics
 
+## Problem-Solving Evolution
+
+This project built upon the foundation of the basic banking assistant, demonstrating:
+- Complexity Management: Scaling from single-user to multi-user architecture
+- Data Persistence: Implementing reliable file-based storage solutions
+- User Experience: Creating intuitive interfaces for complex operations
+- Code Organization: Developing maintainable, well-documented codebases
+
 **Technologies:** Python, File I/O, Exception handling  
 **Skills:** System design, data security, advanced data structures
+
+## Code & Documentation
+
+**🔗 [View Code on GitHub](https://github.com/emkirichenko/1md3-banking-systems)** - Includes detailed README with setup instructions and code walkthrough
+
