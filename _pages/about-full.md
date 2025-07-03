@@ -11,7 +11,7 @@ I'm Emily Kirichenko, a third-year student in the Combined Honours Biology & PNB
 
 Currently pursuing a **Combined Honours degree in Biology and Psychology, Neuroscience & Behaviour** with an expected graduation in April 2027. I maintain a cumulative GPA of 10.0/12.0 and have been recognised on the Dean's Honour List.
 
-I am also completing a **Concurrent Certificate in Languages of Medicine and Health**, to deepend my understanding and appreciation for scientific etymology and Lain.
+I am also completing a **Concurrent Certificate in Languages of Medicine and Health**, to deepend my understanding and appreciation for scientific etymology and Latin.
 
 ## Research Interests
 
