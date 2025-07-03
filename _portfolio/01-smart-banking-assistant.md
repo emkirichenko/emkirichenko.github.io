@@ -28,10 +28,6 @@ A command-line banking assistant that simulates a personal bank account with sec
 - **Data Management:** Global state management and transaction tracking
 - **User Experience:** Professional command-line interface design
 
-## Code & Documentation
-
-**🔗 [View Code on GitHub](https://github.com/emkirichenko/1md3-banking-systems)** - Includes detailed README with setup instructions and code walkthrough
-
 ## Problem-Solving Highlights
 
 - Implemented robust authentication system before allowing access
@@ -41,3 +37,7 @@ A command-line banking assistant that simulates a personal bank account with sec
 
 **Technologies:** Python, Time module for timestamps  
 **Skills:** Functional programming, input validation, user interface design
+
+## Code & Documentation
+
+**🔗 [View Code on GitHub](https://github.com/emkirichenko/1md3-banking-systems)** - Includes detailed README with setup instructions and code walkthrough
